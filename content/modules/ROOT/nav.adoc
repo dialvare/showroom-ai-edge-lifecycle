@@ -1,5 +1,6 @@
 * 1. AI & Edge Use case
-** xref:1-1_essentials-edge.adoc[1.1 Understanding the Essentials of Edge]
+** xref:1-1_case-study.adoc[1.1. Understanding the case]
+** xref:1-2_essentials-edge.adoc[1.2 Understanding the Essentials of Edge]
 
 * 2. Lab Architecture
 ** xref:2-1_architecture.adoc[2.1 Exploring Our Infrastructure and Design]
