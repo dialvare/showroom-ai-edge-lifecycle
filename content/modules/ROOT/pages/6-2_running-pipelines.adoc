@@ -1,4 +1,4 @@
-# Automating with pipelines 
+= Automating with pipelines
 
 Automating workflows at the edge could be considered one of the most crucial activities for organizations seeking to reduce latency, maintain robust security standards and enhance the overall efficiency. The edge can be a remote unpleasant place where tasks need to continue running autonomously even in the worst scenarios, since there are usually no working crews on site that can take actions on such critical systems. The solution therefore lies in task automation.
 
