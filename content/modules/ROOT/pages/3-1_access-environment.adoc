@@ -4,6 +4,7 @@ This page contains all the links and credentials needed to access each machine a
 
 == Single Node OpenShift Web Console
 
+[.console-input]
 [source,sh]
 ----
 https://console-openshift-console.apps.cluster-79242.dynamic.redhatworkshops.io
@@ -14,6 +15,7 @@ https://console-openshift-console.apps.cluster-79242.dynamic.redhatworkshops.io
 
 == Red Hat OpenShift AI Dashboard
 
+[.console-input]
 [source,sh]
 ----
 https://rhods-dashboard-redhat-ods-applications.apps.cluster-79242.dynamic.redhatworkshops.io/
@@ -24,6 +26,7 @@ https://rhods-dashboard-redhat-ods-applications.apps.cluster-79242.dynamic.redha
 
 == MinIO object storage Dashboard
 
+[.console-input]
 [source,sh]
 ----
 https://minio-ui-ai-edge-project.apps.cluster-79242.dynamic.redhatworkshops.io
@@ -34,6 +37,7 @@ https://minio-ui-ai-edge-project.apps.cluster-79242.dynamic.redhatworkshops.io
 
 == Red Hat Enterprise Linux Machine
 
+[.console-input]
 [source,sh]
 ----
 ssh lab-user@ssh.ocpv05.dal10.infra.demo.redhat.com -p 31059
