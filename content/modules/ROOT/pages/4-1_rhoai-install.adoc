@@ -4,9 +4,10 @@ Taking into account that the Single Node OpenShift has been already configured t
 
 . Open the *OpenShift Web Console* and log in using the credentials provided with in the lab instructions. The Console URL is:
 
-== [source,bash]
-
- https://console-openshift-console.apps.cluster-79242.dynamic.redhatworkshops.io ----
+[source,sh]
+----
+https://console-openshift-console.apps.cluster-79242.dynamic.redhatworkshops.io
+----
 
 [start=2]
 
@@ -22,7 +23,7 @@ Taking into account that the Single Node OpenShift has been already configured t
  ** Finally, scroll down to the *trustyAI* configuration and enable the component by switching again the *managementState* field to *Managed*.
 . The configuration should look like this:
 
-[Image]
+[IMAGE_HERE]
 
 [start=9]
 
@@ -37,7 +38,7 @@ Taking into account that the Single Node OpenShift has been already configured t
 
 Now, we should be able to access the OpenShift AI Web Console. On the right side of the top navigation bar, you will find a square icon formed by 9 smaller squares. Click it and select *Red Hat OpenShift AI* from the dropdown menu:
 
-[Image]
+[IMAGE_HERE]
 
 A new tab will open. Log in using your OpenShift credentials and you will be redirected to  the Red Hat OpenShift AI landing page.
 

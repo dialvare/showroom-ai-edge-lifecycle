@@ -9,7 +9,7 @@ Red Hat OpenShift AI creates DataConnection resources as OpenShift secrets. Thos
  ** *Name*: Name for the secret. I'm using `s3creds`.
  ** *Access key*: Username defined when deploying MinIO. Normally, `minio`.
  ** *Secret key*: Add the MinIO password. In my case, I used `minio123`.
- ** *Endpoint*: You can get the API endpoint URL from the MinIo service in OCP. Mine is http://minio-service.ai-edge-project.svc.cluster.local:9000.
+ ** *Endpoint*: You can get the API endpoint URL from the MinIo service in OCP. Mine is `http://minio-service.ai-edge-project.svc.cluster.local:9000`.
  ** *Region*: It doesn't really matter here. The default value is `us-east-1`.
  ** *Bucket*: Indicate the MinIO bucket name created before. As we saw, I created the `s3-storage` folder to store my trained model.
  ** *Connected workbench*: Select your workbench here. The one that I used for training the model was `model-training`.

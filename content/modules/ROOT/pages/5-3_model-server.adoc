@@ -22,6 +22,7 @@ In this article you will learn how to set up Red Hat OpenShift AI on Single Node
 . When configured, click on *Deploy*.
 
 At that moment, new ServingRuntime and InferenceService resources will be created in your node. In the Models tab, your new Model Service should appear. Wait until you see a *green checkmark* in the Status column. Also, the *Inference endpoint* field will show you the model inference API to make requests to.
+
 [NOTE]
 ====
 _The URL shown in the Inference endpoint field for the deployed model is not complete. To send queries to the model, you must add the /v2/models/edge/infer string to the end of the URL. More information can be found in the link:https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/2.12/html-single/release_notes/index?extIdCarryOver=true&sc_cid=701f2000000tyBtAAI#known-issues_relnotes[RHOAIENG-3018 documentation]._

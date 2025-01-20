@@ -4,9 +4,10 @@ Data Science Projects in RHOAI are used to organize users and AI-application rel
 
 . Make sure you are in the *Red Hat OpenShift AI Dashboard*. Remember that it can be accessed trough the OpenShift Web Console or directly on this URL:
 
-== [source,bash]
-
- https://rhods-dashboard-redhat-ods-applications.apps.cluster-79242.dynamic.redhatworkshops.io/ ----
+[source,sh]
+----
+https://rhods-dashboard-redhat-ods-applications.apps.cluster-79242.dynamic.redhatworkshops.io/
+----
 
 [start=2]
 

@@ -6,9 +6,10 @@ When we train an AI/ML model, a crutial step is to make the data accessible duri
 
 . First, we need to access the MinIO Console. Open a new tab in your browser and access the following URL:
 
-== [source,bash]
-
- https://minio-ui-ai-edge-project.apps.cluster-79242.dynamic.redhatworkshops.io ----
+[source,sh]
+----
+https://minio-ui-ai-edge-project.apps.cluster-79242.dynamic.redhatworkshops.io
+----
 
 [start=2]
 
@@ -30,7 +31,7 @@ The second bucket we will need is the one that will store all the artifacts gene
 
 And just like that we have finished configuring our s3 storage. Now the Buckets should look like the following one:
 
-[Image]
+[IMAGE_HERE]
 
 == Next section:
 
