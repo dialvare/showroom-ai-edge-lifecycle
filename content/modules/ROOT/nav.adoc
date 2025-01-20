@@ -18,12 +18,12 @@
 ** xref:4-4_importing_notebooks.adoc[4.4 Explore Notebooks]
 
 * 5. Model Serving
-** xref:5-1_data-connection-serving.adoc[5.1 DataConnections for serving]
+** xref:5-1_data-connection-serving.adoc[5.1 DataConnections]
 ** xref:5-2_running_notebooks.adoc[5.2 Training our model]
 ** xref:5-3_model-server.adoc[5.3 Model Serving platform]
 
 * 6. DataScience Pipelines
-** xref:6-1_data-connection-pipelines.adoc[6.1 DataConnections for pipelines]
+** xref:6-1_data-connection-pipelines.adoc[6.1 Pipeline server]
 ** xref:6-2_running-pipelines.adoc[6.2 Automating with pipelines]
 
 * 7. Model Monitoring
