@@ -1,7 +1,7 @@
 ---
 site:
   title: AI/ML Lifecycle Automation at the Edge
-  url: https://redhat-scholars.github.io/course-template
+#  url: https://redhat-scholars.github.io/course-template
   start_page: modules::index.adoc
 
 content:
